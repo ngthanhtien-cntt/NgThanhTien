@@ -1,0 +1,13 @@
+E:\LuuDuLieuSinhVien\2001210222_NguyenThanhTien_Buoi2\Buoi2\nhan2songuyen\bin\Debug\nhan2songuyen.exe.config
+E:\LuuDuLieuSinhVien\2001210222_NguyenThanhTien_Buoi2\Buoi2\nhan2songuyen\bin\Debug\nhan2songuyen.exe
+E:\LuuDuLieuSinhVien\2001210222_NguyenThanhTien_Buoi2\Buoi2\nhan2songuyen\bin\Debug\nhan2songuyen.pdb
+E:\LuuDuLieuSinhVien\2001210222_NguyenThanhTien_Buoi2\Buoi2\nhan2songuyen\obj\Debug\nhan2songuyen.csprojResolveAssemblyReference.cache
+E:\LuuDuLieuSinhVien\2001210222_NguyenThanhTien_Buoi2\Buoi2\nhan2songuyen\obj\Debug\nhan2songuyen.exe
+E:\LuuDuLieuSinhVien\2001210222_NguyenThanhTien_Buoi2\Buoi2\nhan2songuyen\obj\Debug\nhan2songuyen.pdb
+C:\Users\ACER\Downloads\2001210222_NguyenThanhTien_Buoi2\Buoi2\nhan2songuyen\bin\Debug\nhan2songuyen.exe.config
+C:\Users\ACER\Downloads\2001210222_NguyenThanhTien_Buoi2\Buoi2\nhan2songuyen\bin\Debug\nhan2songuyen.exe
+C:\Users\ACER\Downloads\2001210222_NguyenThanhTien_Buoi2\Buoi2\nhan2songuyen\bin\Debug\nhan2songuyen.pdb
+C:\Users\ACER\Downloads\2001210222_NguyenThanhTien_Buoi2\Buoi2\nhan2songuyen\obj\Debug\nhan2songuyen.csproj.AssemblyReference.cache
+C:\Users\ACER\Downloads\2001210222_NguyenThanhTien_Buoi2\Buoi2\nhan2songuyen\obj\Debug\nhan2songuyen.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Downloads\2001210222_NguyenThanhTien_Buoi2\Buoi2\nhan2songuyen\obj\Debug\nhan2songuyen.exe
+C:\Users\ACER\Downloads\2001210222_NguyenThanhTien_Buoi2\Buoi2\nhan2songuyen\obj\Debug\nhan2songuyen.pdb
